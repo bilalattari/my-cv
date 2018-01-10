@@ -1,0 +1,38 @@
+body{
+    max-width: 80%;
+    margin: 0 auto;
+
+}
+
+
+
+div{
+    margin: 2px;
+    margin-left: 3px;
+    padding:2px;
+    text-align: center;
+}
+
+th{
+    font-size: 1em;
+}
+
+.img-fluid{
+    max-height: 477px;
+    max-width: 50%;
+}
+h3{
+    padding: 9px;
+}
+.prtf{
+    border: 2 black solid;
+}
+i{
+    font-size: 2em;
+
+}
+.heading{
+    font-size: 2em;
+    background-color: #f0ffff	;
+    text-align: center;
+}
